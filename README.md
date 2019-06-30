@@ -21,5 +21,6 @@ The functionality I want to add is :
 3) Allowing players to choose between X and O
 4) Saving the state of the game
 5) Allowing the players to choose their version of symbols they want to play with.
+6) Allowing Customization of background colours
 
 
